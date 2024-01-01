@@ -13,14 +13,9 @@ const config = {
   favicon: 'img/favicon.ico',
 
   url: 'https://www.tunaphish.github.io',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'tunaphish', // Usually your GitHub org/user name.
-  projectName: 'tunaphish.github.io', // Usually your repo name.
+  organizationName: 'tunaphish', 
+  projectName: 'tunaphish.github.io', 
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
