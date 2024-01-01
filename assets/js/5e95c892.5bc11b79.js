@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktunaphish_github_io=self.webpackChunktunaphish_github_io||[]).push([[9661],{1892:(e,s,u)=>{u.r(s),u.d(s,{default:()=>c});u(7294);var h=u(512),r=u(1944),t=u(5281),a=u(8790),i=u(7293),n=u(5893);function c(e){return(0,n.jsx)(r.FG,{className:(0,h.Z)(t.k.wrapper.docsPages),children:(0,n.jsx)(i.Z,{children:(0,a.H)(e.route.routes)})})}}}]);
