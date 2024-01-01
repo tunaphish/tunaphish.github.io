@@ -28,3 +28,23 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+
+.logo {
+  position: relative;
+  left: 50vw;
+  top: 50vh;
+  transform: translate(-50%,-50%);
+  height: 256px;
+  
+  & > * {
+    transition: all 0.8s;
+    &:hover {
+      fill: rgb(255, 255, 255);
+      transition: all 0.1s;
+    }
+  }
+}
+.topbody,.bottombody{fill:#0392D9;}
+.tailfin,.mainbody{fill:#1DBCD6;}
+.topfin,.bottomfin{fill:#035CD9;}
