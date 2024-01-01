@@ -2,6 +2,9 @@
 sidebar_position: 1
 ---
 
+# Note to Self
+Leaving this here in case I need docs later but only using the blog for now.
+
 # Tutorial Intro
 
 Let's discover **Docusaurus in less than 5 minutes**.

@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Tunablog 🐟',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Tunas are cool',
   favicon: 'img/favicon.ico',
 
   url: 'https://www.tunaphish.github.io',
@@ -60,7 +60,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Tuna Blog',
+        title: 'Tunablog',
         logo: {
           alt: 'Tuna Plog Logo',
           src: 'img/logo.svg',
@@ -77,15 +77,6 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
           {
             title: 'Community',
             items: [
@@ -117,7 +108,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} tunaphish, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
