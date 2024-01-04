@@ -8,14 +8,15 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Tunablog 🐟',
-  tagline: 'Tunas are cool',
+  title: 'Tunablog',
+  tagline: 'Life is a series of moments',
   favicon: 'img/favicon.ico',
 
   url: 'https://www.tunaphish.github.io',
   baseUrl: '/',
   organizationName: 'tunaphish', 
   projectName: 'tunaphish.github.io', 
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -37,6 +38,7 @@ const config = {
           sidebarPath: './sidebars.js',
         },
         blog: {
+          routeBasePath: '/',
           showReadingTime: true,
         },
         theme: {
@@ -58,26 +60,21 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {to: '/blog', label: 'Blog', position: 'left'},
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
-            title: 'Community',
+            title: 'Socials',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Github',
+                href: 'https://github.com/tunaphish',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/tuna.phish/',
               },
             ],
           },
@@ -87,10 +84,6 @@ const config = {
               {
                 label: 'Blog',
                 to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
