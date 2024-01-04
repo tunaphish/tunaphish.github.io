@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktunaphish_github_io=self.webpackChunktunaphish_github_io||[]).push([[7451],{9625:s=>{s.exports=JSON.parse('{"label":"lifestyle","permalink":"/blog/tags/lifestyle","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);

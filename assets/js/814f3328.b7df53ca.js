@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktunaphish_github_io=self.webpackChunktunaphish_github_io||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"2023 Retrospective","permalink":"/blog/2023/01/03/retrospective","unlisted":false},{"title":"New Year, New Me","permalink":"/blog/2023/01/01/new-year-new-me","unlisted":false}]}')}}]);
