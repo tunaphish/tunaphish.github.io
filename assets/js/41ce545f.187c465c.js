@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktunaphish_github_io=self.webpackChunktunaphish_github_io||[]).push([[8419],{3995:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/tags/hello","allTagsPath":"/tags","count":2,"unlisted":false}')}}]);

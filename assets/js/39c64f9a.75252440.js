@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktunaphish_github_io=self.webpackChunktunaphish_github_io||[]).push([[7189],{1086:t=>{t.exports=JSON.parse('{"permalink":"/tags/lifestyle","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
