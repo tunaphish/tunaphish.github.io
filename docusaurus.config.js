@@ -77,16 +77,7 @@ const config = {
                 href: 'https://www.instagram.com/tuna.phish/',
               },
             ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-            ],
-          },
+          }
         ],
         copyright: `Copyright © ${new Date().getFullYear()} tunaphish, Inc. Built with Docusaurus.`,
       },
