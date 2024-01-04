@@ -54,7 +54,7 @@ const config = {
       navbar: {
         title: 'Tunablog',
         logo: {
-          alt: 'Tuna Plog Logo',
+          alt: 'Tuna Blog Logo',
           src: 'img/logo.svg',
         },
         items: [
