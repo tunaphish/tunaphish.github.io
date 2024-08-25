@@ -1,6 +1,6 @@
 ---
 title: New Year, New Me
-authors: [tunaphish]
+date: '2024-01-01'
 tags: [hello, lifestyle]
 ---
 

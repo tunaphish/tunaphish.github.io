@@ -1,6 +1,6 @@
 ---
 title: 2023 Retrospective
-authors: [tunaphish]
+date: '2024-01-03'
 tags: [hello, lifestyle]
 ---
 
