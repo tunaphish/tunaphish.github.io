@@ -1,7 +1,14 @@
+https://tunaphish.me/
+http://tunaphish.github.io/
+
+# Prerequisuites
+- nodejs v?? installed
+
 # Quick Start
-1.  run `npm start`
+1. run `npm start`
 2. open `http://localhost:8000` in browser
    1. alt: open `http://localhost:8000/___graphql` to view site schema
+3. deploy changes using `npm run deploy`
 
 # Overview
     .
