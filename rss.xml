@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Tunaphish's Garden RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 25 Aug 2024 13:52:14 GMT</lastBuildDate><item><title><![CDATA[2023 Retrospective]]></title><description><![CDATA[I was going through photos to create a collage of memories. But there was a strong theme among the photos that resonated with me.  There's a…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2024-01-03-retrospective/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2024-01-03-retrospective/</guid><pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I was going through photos to create a collage of memories. But there was a strong theme among the photos that resonated with me.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/27165cd42e82127664cc7542c15251bd/adc48/2024-memories.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 105.0632911392405%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAYAAABG1c6oAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEqklEQVR42oWVW09UZxSG+QVtjTDnIzAMOFABpxyDwzAjZ1EEZESYURlmM4ADAiIWENQCIgMIigQUCioGsMVGG9OmsReNaRsv2qRpYnrVpmn8G0+/PRSKNaYX62Z/ez/fWut919pRBoOB3aFVKdAoo1HG7EUVE41e/+a50WTCZDRi/Cf++31U5KXIoQmDXkt95wjds19zbvJzpKF54iwJ6HW6LZjRgFqtRqFQolKpRKjfujAClA+UCgV733+PC3PrrP8Jy69g/vu/sCbZ0Gm1kcw0Gg1FxYWcrKuluMjNIWcO8XFmAdX/C5SzK3DmUVZTi+twJaFQgMmpa0iNjQxPzWFLTkEnMjSbzZHsvN46pieGGRzoYKgvROqHKeIi7U75UXHx8awtj/P02Wd8+dtrrvadZ/58G3f8lSyFr5OUvB+lKE+j1RMdo8JTc5gHy4ss3b1HW0s7SUn70Gp3AU2xFhZGT7MwdIpPNzaYHguzMnOLmyEvI60nsNlslBZkUHfEiTsvFclbyeMHC/T5qgmUOEmMi0UnSjbu9FCQH14P8PrXr3hwa4CNhQmebiyRZd+P1azDJISa6ffy6FYX858E6b9yHikcZv5SFxOhRlISE9CIlsiCbWUomt1wtIBWXwWu7GT8Po8o5TQuVw6ZjgJyC4q53NvI4JkK7o4OMnPnBq7yYhoqy6mpKMciMtQbdomi02kxxVlJzSzAlu4gbl8mBtGGolIXw0sLjN+ZZSxYTJvnOMvhUfp9JcKfCvbsURGt0KDWm9Dtto1aGYOjqJrRtd8J3XhJcPInHBVBpLMttPlruTIyyFVvJl3V5ay3uJHsH5Boi6e6PpeirHhKddFkGHRoZZ/KQI0qBrvjKB0Lr5Amf+TY4AvSiwJ4mySm2/2MtvkJeV10FKYTDpQx0XWc24s3CN87hj94gJ6aTHLticIFW30UQAX2/MM0zb7Ee/UJ0twvuD2ddHd38POzFf54vsb91VXUOg0dZ5sZaw9we3QAr1TJqQo347VlZOUkCetsA4VZs/MO0v7xJfqGhnmyucb1oQusL9/mxXff0NvTz7GqeiyWWLwVxUxdmWB2eo7W2hom27oZ83upKsxFIaZNnvEo2ZRpqWkEznhp9NUzNTLEwuVuLjd5GRPGNptNqFVKYuMtdIpnq0v3uL90n+WeIKu9o0yfW8TjcKFQq7aAsjLyLMrjI/chK91O0HOUIclDb2cTCSIz+bnVaqX6SAk3ByTuDrcLiJ0csTicaU7SLInC3Lo3t832SqouP0RrpYPOOheb3/7A1MoTRvqaaT5TQ/I+K6X56VzsOIXZoGG/xYBGr96B7QB3hzvvIxpcB6jKTaSx/SKrXzzn8aMVTvvqhJopODISRaZOmivz6a92oRQzbhbD8U6gvKZ0Yjfq9EbqPYcIj/QyGR6npLSQVn89Az3NhE6W8fxaiHDDEaJVmkh17wRut0BWP9hymKmJAdoCforc+bidBznrq2Lz2jnWhns4UejcUfd/gIbIDpQkH5sPF5mZGsMvBbEmWLBZE0hPTkIlhDLFxr6xXN8J3A77gXRyszNwOBxkZudiMhnRiotk1U2R7aJ/65/yN7XHBvImaWLWAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;2024 Memories&quot;
+        title=&quot;&quot;
+        src=&quot;/static/27165cd42e82127664cc7542c15251bd/f058b/2024-memories.png&quot;
+        srcset=&quot;/static/27165cd42e82127664cc7542c15251bd/c26ae/2024-memories.png 158w,
+/static/27165cd42e82127664cc7542c15251bd/6bdcf/2024-memories.png 315w,
+/static/27165cd42e82127664cc7542c15251bd/f058b/2024-memories.png 630w,
+/static/27165cd42e82127664cc7542c15251bd/40601/2024-memories.png 945w,
+/static/27165cd42e82127664cc7542c15251bd/adc48/2024-memories.png 979w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;There&apos;s a lot changes coming for me in 2024. But if you are there with me, it will all work out.
+Because you inspire me to make sure it will.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Year, New Me]]></title><description><![CDATA[For a while now, I have felt dissatisfied with my life. It is New Year's Day and I am at the end of my lease on the last week of my job that…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2024-01-01-new-year-new-me/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2024-01-01-new-year-new-me/</guid><pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;For a while now, I have felt dissatisfied with my life. It is New Year&apos;s Day and I am at the end of my lease on the last week of my job that I have been at for the last 4 1/2 years. In a couple weeks Rena and I drive back to Florida and a few weeks after that we move into our new house.&lt;/p&gt;
+&lt;p&gt;By all accounts I have an incredibly fortunate life in the three ways it probably counts the most; my partner, my finances, my health. The body, resources, and support required to pretty much do anything I wanted. But I did not do the things I wanted. The work I was doing was no longer satisfying and the lack of energy it left for me after work resulted in me just going on my phone and playing Apex. All day I lived a life of no meaning.&lt;/p&gt;
+&lt;p&gt;I initially moved here because of that feeling of dissatisfaction. And overall it was a failure. But from that failure I gained the perspective I needed to take advantage of the new opportunities in front of me. The biggest lesson, is that meaning is self generated. And I want all of it... all the meaning. Everything life has to offer.&lt;/p&gt;
+&lt;p&gt;I want to be fit. I want to learn things I am passionate about. I want to connect with others, in a home and circles of my own cultivation. I want to luxuriate in life itself, in the moment itself. And I want to express myself through my art.&lt;/p&gt;
+&lt;h2&gt;2024&lt;/h2&gt;
+&lt;p&gt;Differentiation and Integration. Here are some goals for the year. Let&apos;s see how many I hit.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Self
+&lt;ul&gt;
+&lt;li&gt;Meditation&lt;/li&gt;
+&lt;li&gt;Early Sunlight&lt;/li&gt;
+&lt;li&gt;Ideation Sessions&lt;/li&gt;
+&lt;li&gt;Nofap&lt;/li&gt;
+&lt;li&gt;Capsule Wardrobe&lt;/li&gt;
+&lt;li&gt;Skincare&lt;/li&gt;
+&lt;li&gt;Ortho K&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tribes
+&lt;ul&gt;
+&lt;li&gt;House and Circles
+&lt;ul&gt;
+&lt;li&gt;Firepit Gatherings, Whiskey, Demos, Cast Paper to Flame&lt;/li&gt;
+&lt;li&gt;Herb Gardens&lt;/li&gt;
+&lt;li&gt;Hosting Parties&lt;/li&gt;
+&lt;li&gt;Ice Bath&lt;/li&gt;
+&lt;li&gt;Spa Night - Bath&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Social Media Cultivation&lt;/li&gt;
+&lt;li&gt;MMA Gym or other Fitness Club&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;World
+&lt;ul&gt;
+&lt;li&gt;Create a game demo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item></channel></rss>
