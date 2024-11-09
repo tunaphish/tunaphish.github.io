@@ -2,7 +2,7 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - main
+      - source
 permissions:
   contents: write
 jobs:
@@ -19,7 +19,7 @@ jobs:
           npm run build
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
-        if: github.ref == 'refs/heads/main'
+        if: github.ref == 'refs/heads/source'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
