@@ -1,4 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Tunaphish's Garden RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 10 Nov 2024 22:40:41 GMT</lastBuildDate><item><title><![CDATA[Pixel]]></title><description><![CDATA[A dog will teach you unconditional love. If you can have that in your life, things won’t be too bad.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2024-11-10-pixel/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2024-11-10-pixel/</guid><pubDate>Sun, 10 Nov 2024 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Tunaphish's Garden RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 12 Nov 2024 19:39:45 GMT</lastBuildDate><item><title><![CDATA[Four Thousand Weeks - Death and Github Heatmaps]]></title><description><![CDATA[Four thousand weeks. That is it. That is all time we get on this earth. I was "inspired" by this Reddit Post.
+It is a strong visualization…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2024-11-12-four-thousand-weeks/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2024-11-12-four-thousand-weeks/</guid><pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Four thousand weeks. That is it. That is all time we get on this earth.&lt;/p&gt;
+&lt;p&gt;I was &quot;inspired&quot; by this &lt;a href=&quot;https://www.reddit.com/r/webdev/comments/1gn24zo/i_probably_only_have_2000_weeks_left_to_live_so_i/&quot;&gt;Reddit Post&lt;/a&gt;.
+It is a strong visualization of the four thousand weeks concept. It lets the user put in their name and birthday so they&apos;re able to visualize how much time they have left assuming an average lifespan.
+It is morbid in one sense. But I appreciate the author&apos;s candor in the comments. That we can face this concept head on and use it to truly prioritize the things that are important in our life.&lt;/p&gt;
+&lt;p&gt;I wanted to take it a step further though. Generally visualizations like this are &quot;fun&quot; for a few minutes but you quickly forget about them. I wanted to constantly remind myself of this concept and incorporate it on a regular basis. I had the idea to combine it with Github&apos;s heatmap to create something similar to the original posts idea. Instead of your name, you would put your Github user name and it would create a heatmap on a lifetime basis instead of the rolling year that Github normally does.&lt;/p&gt;
+&lt;p&gt;However, there were quite a few restrictions I had to work around that eventually lead to just a more personal graphic.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First, getting data from Github required investing time into writing a server, hosting it and all the other things having a server entails which in the spirit of this post, I decided I did not feel like doing.&lt;/li&gt;
+&lt;li&gt;Second, the structure of Github&apos;s API is not conducive for this either. I would have to request all the user&apos;s repos, then individually request all the commits from each repo. I didn&apos;t even check if pagination was involved but it surely would be. It&apos;d be a poor user experience waiting for all these subsequent calls and again I didn&apos;t want to invest time or money into that aspect.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Another data source I considered was iPhone&apos;s Screen Time data, although this concept would be a lot more depressing! Unfortunately there isn&apos;t a public API to access this data either.&lt;/p&gt;
+&lt;p&gt;Instead I resigned myself to just using local data. I could preserve the original concept by downloading all my repos and using some git commands to generate a list of commits with dates. It&apos;d work but it also wasn&apos;t automated in a way I desired.&lt;/p&gt;
+&lt;p&gt;Eventually I settled on using this blog&apos;s posts as the data source (sparse as it is... so far). Assuming I regularly write to this blog means the graphic would update &quot;automatically&quot; as a normal part of my workflow, instead of forcing me to run some script to generate the commit date data which I then commit to this site. Maybe I could have had some chron job or something else but I also like the idea of using blog posts instead of commits. Originally, the idea for this blog was to generate more narratives for my life and I plan on blogging about a variety of things rather than just development. Philosophy, media I am consuming... my dogs and family. So I feel it offers a more comprehensive heatmap on whether I am living my life, moreso than the &quot;coldness&quot; of just purely code commits (while it is my vocation and one of my primary hobbies.)&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cfef45653784672902dbd052a7711099/1bba8/four-thousand-weeks.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 147.46835443037975%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAdCAYAAACqhkzFAAAACXBIWXMAAAsTAAALEwEAmpwYAAABV0lEQVR42u1SYW+CMBTk//8uoFAQ8AOgbsaNzdFahosav976CjJclC1RkyXzw+W93F1fr82z4jgGY8zA87yzcF3X1FM+3/fhOA6yLIMVRZExEw6DT+Ew8JSPeNu2kaYprCRJzA0EznlXv/d0aEinwXme3xPeImE/Qb+ntRjSb5nweLEZo79iBq574FnLH+sN35xzHFsvNiWMo+4gDwL4POwQhG0fjGCzQOshPE51BM8P4XqNh4dad7lOOIU1zgtMJpmJuyiWeHyWGgKzJ4HiTeCh7Ue5wOJFGI24bC4wngm8lgLzQiKZlljKGpZ6r6GUarBadajUVzW9krq2HtXjO6/Ex3qtB2qTEOIiSClRliXqWiesqsoQl2ClU9Lg9c0S0g0/gQ7R5UO6SXj1J98H/sGB/3QPr5qQTPR+wtA//UY3f7jb7bDZbAy2221Xz/V9rg/i9/s9PgEn9yF3qn+mhgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Four Thousand Weeks&quot;
+        title=&quot;&quot;
+        src=&quot;/static/cfef45653784672902dbd052a7711099/f058b/four-thousand-weeks.png&quot;
+        srcset=&quot;/static/cfef45653784672902dbd052a7711099/c26ae/four-thousand-weeks.png 158w,
+/static/cfef45653784672902dbd052a7711099/6bdcf/four-thousand-weeks.png 315w,
+/static/cfef45653784672902dbd052a7711099/f058b/four-thousand-weeks.png 630w,
+/static/cfef45653784672902dbd052a7711099/1bba8/four-thousand-weeks.png 642w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The dark gray squares represents all the weeks up until my first blog post.&lt;/li&gt;
+&lt;li&gt;The blue squares are a heatmap for the amount of blogs (dark blue = 5+, medium blue = 3+, light blue = 1+, lightest blue = 0) between my first blog post and my latest one.&lt;/li&gt;
+&lt;li&gt;The light gray squares represent the weeks to come.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The other motivation for this post is obvious in light of my most recent posts. I miss my dog. I miss her so much.
+I forget where I read this concept but dogs do not care about what they&apos;re doing.
+As long as they get to do it with you, they&apos;re having the time of their life.&lt;/p&gt;
+&lt;p&gt;I don&apos;t want to waste another week... another second, on things that don&apos;t matter. I want to spend it, surrounded by the ones I love.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Pixel]]></title><description><![CDATA[A dog will teach you unconditional love. If you can have that in your life, things won’t be too bad.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2024-11-10-pixel/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2024-11-10-pixel/</guid><pubDate>Sun, 10 Nov 2024 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;A dog will teach you unconditional love. If you can have that in your life, things won’t be too bad.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 177.75%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;div class=&quot;embedVideo-container&quot;&gt; &lt;iframe title=&quot;&quot; src=&quot;https://www.youtube.com/embed/ZbuNDmxulZk?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot; loading=&quot;lazy&quot; allowfullscreen=&quot;&quot; sandbox=&quot;allow-same-origin allow-scripts allow-popups&quot;&gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[A Lot can Change]]></title><description><![CDATA[I edited this video over a year ago. Never posted it.
