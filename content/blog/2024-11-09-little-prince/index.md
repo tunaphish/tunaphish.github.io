@@ -1,7 +1,7 @@
 ---
 title: A Lot can Change 
 date: '2024-11-09'
-tags: [lifestyle]
+tags: [tribes]
 ---
 
 I edited this video over a year ago. Never posted it. 

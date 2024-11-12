@@ -1,7 +1,7 @@
 ---
 title: New Year, New Me
 date: '2024-01-01'
-tags: [hello, lifestyle]
+tags: [meta, mental]
 ---
 
 For a while now, I have felt dissatisfied with my life. It is New Year's Day and I am at the end of my lease on the last week of my job that I have been at for the last 4 1/2 years. In a couple weeks Rena and I drive back to Florida and a few weeks after that we move into our new house.

@@ -1,7 +1,7 @@
 ---
 title: 2023 Retrospective
 date: '2024-01-03'
-tags: [hello, lifestyle]
+tags: [meta, relationship]
 ---
 
 I was going through photos to create a collage of memories. But there was a strong theme among the photos that resonated with me.
