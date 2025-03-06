@@ -329,16 +329,3 @@ a:focus {
     list-style-position: inside;
   }
 }
-
-.grid {
-  width: 100%;
-  
-  display: grid;
-  grid-template-columns: repeat(52, 1fr);
-  grid-template-rows: repeat(77, 1fr);
-}
-
-.cell {
-  aspect-ratio: 1;
-  margin: 1px;
-}
